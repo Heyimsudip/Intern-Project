@@ -91,11 +91,7 @@ MongoDB (MongoDB Atlas)
 
 To deploy this project run
 
-First of all change the directory
 
-```bash
-    cd api
-```
 To  run the server side
 
 
